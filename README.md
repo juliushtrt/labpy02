@@ -6,9 +6,15 @@ NIM : 312410398
 
 Kelas : TI,24.A.3
 
-# Flowchart Tiket Bioskop
+# Menghitung Tiket Bioskop
+
+## Flowchart
 
 <img src="TiketBioskop.jpg">
+
+## Input Program
+
+<Img src="InputTiket.jpg">
 
 ## Output Program
 
