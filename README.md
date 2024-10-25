@@ -6,4 +6,4 @@ NIM : 312410398
 
 # Flowchart Tiket Bioskop
 
-<img src="Tiket Bioskop.png">
+<img src="TiketBioskop.jpg">
