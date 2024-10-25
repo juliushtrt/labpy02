@@ -4,9 +4,15 @@ Nama : Zizantara Arzeva Cakra Kahana
 
 NIM : 312410398
 
+Kelas : TI,24.A.3
+
 # Flowchart Tiket Bioskop
 
 <img src="TiketBioskop.jpg">
+
+## Output Program
+
+<img src="OutpuTiket.jpg">
 
 ## Program ini memiliki fitur-fitur berikut:
 1. Meminta input tipe tiket (Reguler/VIP)
