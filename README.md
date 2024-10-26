@@ -33,3 +33,36 @@ Kelas : TI,24.A.3
 2. Pilih tipe tiket dengan memasukkan angka 1 (Reguler) atau 2 (VIP)
 3. Masukkan status member dengan 'y' untuk ya atau 'n' untuk tidak
 4. Program akan menampilkan rincian pembelian dan total yang harus dibayar
+
+# Kalkulator Sederhana
+
+## Flowchart
+
+<img src="kalkulator.jpg">
+
+## Input Program
+
+<img src="InputKalku.jpg">
+
+## Output Program
+
+<img src="OutputKalku.jpg">
+
+## Program Ini Memiliki Fitur-fitur Berikut
+
+1. Menerima Input :
+    + Dua angla (bisa bilangan bulat atau desimal)
+    + Satu operator aritmatika ( +,-,*,/ )
+2. Validasi :
+    + Memastikan input angka valid
+    + Memastikan operator valid
+    + mencegah pembagian dengan nol
+3. Menggunakan if-elif-else untuk menentukan operasi yang  akan dilakukan
+4. Menampilkan hasil perhitungan dengan format yang rapi
+
+## Cara menggunakan program
+
+1. Masukan angka pertama
+2. Masukan Operator aritmatika yang di inginkan
+3. Masukan angka kedua 
+4. Program akan menampilkan hasil perhitungan
