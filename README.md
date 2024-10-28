@@ -10,7 +10,7 @@ Kelas : TI,24.A.3
 
 ## Flowchart
 
-<img src="Tiket.jpg">
+<img src="TIket.jpg">
 
 ## Input Program
 
