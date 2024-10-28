@@ -1,8 +1,8 @@
 # Data Diri
 
-Nama : M Rafi Al Hakim
+Nama : Julius Hutabarat
 
-NIM : 312410403
+NIM : 312410429
 
 Kelas : TI,24.A.3
 
