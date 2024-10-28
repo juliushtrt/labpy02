@@ -1,8 +1,8 @@
 # Data Diri
 
-Nama : Zizantara Arzeva Cakra Kahana
+Nama : M Rafi Al Hakim
 
-NIM : 312410398
+NIM : 312410403
 
 Kelas : TI,24.A.3
 
@@ -21,6 +21,7 @@ Kelas : TI,24.A.3
 <img src="OutpuTiket.jpg">
 
 ## Program ini memiliki fitur-fitur berikut:
+
 1. Meminta input tipe tiket (Reguler/VIP)
 2. Meminta status member (ya/tidak)
 3. Menghitung harga dengan diskon jika user adalah member
@@ -29,6 +30,7 @@ Kelas : TI,24.A.3
 6. Menggunakan format angka dengan pemisah ribuan untuk kemudahan membaca
 
 ## Cara menggunakan program:
+
 1. Jalankan program
 2. Pilih tipe tiket dengan memasukkan angka 1 (Reguler) atau 2 (VIP)
 3. Masukkan status member dengan 'y' untuk ya atau 'n' untuk tidak
@@ -51,18 +53,18 @@ Kelas : TI,24.A.3
 ## Program Ini Memiliki Fitur-fitur Berikut
 
 1. Menerima Input :
-    + Dua angla (bisa bilangan bulat atau desimal)
-    + Satu operator aritmatika ( +,-,*,/ )
+   - Dua angla (bisa bilangan bulat atau desimal)
+   - Satu operator aritmatika ( +,-,\*,/ )
 2. Validasi :
-    + Memastikan input angka valid
-    + Memastikan operator valid
-    + mencegah pembagian dengan nol
-3. Menggunakan if-elif-else untuk menentukan operasi yang  akan dilakukan
+   - Memastikan input angka valid
+   - Memastikan operator valid
+   - mencegah pembagian dengan nol
+3. Menggunakan if-elif-else untuk menentukan operasi yang akan dilakukan
 4. Menampilkan hasil perhitungan dengan format yang rapi
 
 ## Cara menggunakan program
 
 1. Masukan angka pertama
 2. Masukan Operator aritmatika yang di inginkan
-3. Masukan angka kedua 
+3. Masukan angka kedua
 4. Program akan menampilkan hasil perhitungan
